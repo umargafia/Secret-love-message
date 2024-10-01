@@ -57,6 +57,6 @@ function timeElapse(date) {
   if (seconds < 10) {
     seconds = '0' + seconds;
   }
-  var result = `Anat, you're the sunshine that makes my world a masterpiece.`;
+  var result = `Babe, you're the sunshine that makes my world a masterpiece.`;
   $('#clock').html(result);
 }

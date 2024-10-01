@@ -186,7 +186,7 @@
       ctx.moveTo(0, 0);
       ctx.scale(0.75, 0.75);
       ctx.font = '12px 微软雅黑,Verdana'; // 字号肿么没有用? (ˉ(∞)ˉ)
-      ctx.fillText('Anat Baby!', 23, 10);
+      ctx.fillText('Fatima Baby!', 23, 10);
       ctx.fillText('Click the heart', 10, 40);
       ctx.restore();
     },
